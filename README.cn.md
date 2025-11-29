@@ -1,0 +1,11 @@
+# classRecord
+This is the HTML program to help student to remember
+
+#### 功能
+-   每日更新每日打卡
+-   *导入*/*导出*数据为json文件
+-   一键全部*打卡*/*取消打卡*
+-   扇形统计图直观显示
+
+#### 如何下载
+仅需下载record开头的文件，后缀为html

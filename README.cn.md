@@ -1,5 +1,5 @@
 # classRecord
-This is the HTML program to help student to remember
+这是一个帮助学生背诵的html程序
 
 #### 功能
 -   每日更新每日打卡
